@@ -44,9 +44,9 @@ El presente proyecto tiene como finalidad brindar soporte analítico a Biogenesy
 
 ### EDA Y ETL:
 
-- Visualización de los datos para detectar correlaciones y anomalias
+- Visualización de los datos para detectar correlaciones y anomalías.
 - Eliminación de valores faltantes, nulos o inconsistentes.
-- Eliminación no relevante para el analisis.
+- Eliminación no relevante para el análisis.
 - Filtrado del dataset por los 5 paises en donde se enfocaria el análisis.
 
 ### Modelado de datos en DAX:
