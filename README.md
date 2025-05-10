@@ -1,7 +1,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block"> Proyecto: Biogenesys</h1></summary>
+    <summary><h1 style="display: inline-block"> Biogenesys</h1></summary>
   </ul>
 </div>
 
@@ -39,7 +39,6 @@ El presente proyecto tiene como finalidad brindar soporte analítico a Biogenesy
 
 - **Fuente:** Conjunto de datos proporcionado por Biogenesys.
 - **Contenido:**  - Datos historicos de contagios, fallecidos y vacunación en América Latina.
-- **Métricas clave:** 
 - **Enfoque:** Argentina, Brasil, Colombia, Chile, Mexico y Perú.
 
 
