@@ -1,7 +1,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block"> Biogenesys> Informe de casos COVID en América Latina</h1></summary>
+    <summary><h1 style="display: inline-block"> Biogenesys: Informe de casos COVID en América Latina</h1></summary>
   </ul>
 </div>
 
